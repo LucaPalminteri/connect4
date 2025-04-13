@@ -1,3 +1,7 @@
+// Stack (LIFO - Last In, First Out)
+// A linear data structure where the last element added is the first to be removed
+// Common opperations: push (add), pop (remove), peek (view top)
+
 class Stack {
   constructor() {
     this.items = [];
